@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Airbus A320NEO F-WNEW</name>
+				<neo-texture>Liveries/F-WNEW.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
