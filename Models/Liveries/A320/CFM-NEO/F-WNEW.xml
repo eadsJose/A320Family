@@ -4,8 +4,8 @@
 	<sim>
 		<model>
 			<livery>
-				<name>Airbus A320NEO F-WNEW</name>
-				<neo-texture>Liveries/F-WNEW.png</neo-texture>
+				<name>Airbus A320neo F-WNEW</name>
+				<texture>Liveries/A320/CFM-NEO/F-WNEW.png</texture>
 			</livery>
 		</model>
 	</sim>
