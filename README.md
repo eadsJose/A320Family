@@ -1,5 +1,5 @@
 # IDG-A32X
-Simple Installation:
+Installation (for basic users):
 - Download ZIP and rename to "IDG-A32X"
 - Unzip it in $FG_ROOT\Aircraft
 - Enjoy!
