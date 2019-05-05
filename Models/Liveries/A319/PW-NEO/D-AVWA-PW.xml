@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Airbus A319neo PW</name>
+				<neo-texture>Liveries/D-AVWA-PW.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
